@@ -1,5 +1,3 @@
-"use client"
-
 import Header from "../components/Header"
 import FilterSection from "../components/FilterSection"
 import ItemBoxList from "../components/ItemBoxList"
